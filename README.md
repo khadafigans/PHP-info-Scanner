@@ -78,7 +78,7 @@ Inside you’ll see files such as:
 - `RESULT-STRIPE.txt` — Stripe keys found
 - `RESULT-EMAIL.txt` — SMTP creds
 - `RESULT-DB.txt` — DB creds / DSNs
-- `site_idup.txt` — responsive/live sites
+- `Live_site.txt` — responsive/live sites
 - plus other `RESULT-*` files depending on hits
 
 > Filenames may vary slightly depending on which parsers get triggered by responses.
