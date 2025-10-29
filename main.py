@@ -2383,7 +2383,7 @@ def main(url):
 
       text += ' | \033[31;1mNo exposure detected on this host.\033[0m'
 
-      save = open(_res('site_idup.txt'),'a')
+      save = open(_res('Live_site.txt'),'a')
 
       asu = str(url).replace('\r', '')
 
